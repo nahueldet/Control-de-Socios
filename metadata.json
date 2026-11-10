@@ -1,0 +1,6 @@
+{
+  "name": "Gestión de Socios - Taller Protegido",
+  "description": "Sistema para el Taller Protegido de Producción: cobro de cuotas a voluntad, talonarios anuales troquelados con código de barras, liquidación del 25% a cobradores y reportes de comisión.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
